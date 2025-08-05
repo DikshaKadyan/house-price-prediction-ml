@@ -37,7 +37,7 @@ It uses regression techniques to predict the selling price of houses based on fe
 ## 📂 Files
 - `house_price_prediction.ipynb` → Main notebook with code implementation  
 - `README.md` → Project documentation  
-- `dataset.csv` → Dataset used for training & testing *(if included)*  
+- `HousePricePrediction.csv` → Dataset used for training & testing *(if included)*  
 
 ---
 
